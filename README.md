@@ -1,7 +1,3 @@
----
-description: Flutter notes
----
-
 # Flutter
 
 Flutter is a hybrid framework from google just like React. Instead of JavaScript like react Flutter uses dart language. Dart is more like JavaScript. Any JavaScript developers can switch to dart easily.
