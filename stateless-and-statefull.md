@@ -34,7 +34,9 @@ class HomePage extends StatelessWidget {
 }
 ```
 
+In this HomePage widget build method return widget \(UI\) for your applications. The HomePage is stateless widgets so it only runs build method only once.
 
+Stateless widgets can improve the application speed also. Because UI is only drawn once their is no redraw in stateless widgets.
 
 
 
