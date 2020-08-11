@@ -2,13 +2,13 @@
 
 #### Command Line
 
-You can create a Flutter app with 
+You can create a Flutter project with:
 
 ```text
 flutter create yourAppName
 ```
 
-This is basic method of creating flutter app on terminal.
+This is basic method of creating flutter project on terminal.
 
 ```text
 flutter create -i swift -a kotlin yourAppName
