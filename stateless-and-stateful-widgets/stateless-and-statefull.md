@@ -23,7 +23,7 @@ Column(children:[
 
 In the above code when the button is press it will trigger headingTxt = 'This is secound title'. but the edit will not happen on the view because it is stateless widgets. The edit will not be redrawn to the UI of the application. 
 
-```text
+```dart
 
 class HomePage extends StatelessWidget {
 

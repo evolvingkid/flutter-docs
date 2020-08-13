@@ -6,7 +6,7 @@ The material app gives us access to all the material design components that we c
 
 Yes it is true we can make widgets without the material app like text.
 
-```text
+```dart
 // using column wigets without material app bar
 
 void main() {
@@ -25,7 +25,7 @@ Material App also help us to navigate around the pages too. We will look into it
 
 example for material app
 
-```text
+```dart
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

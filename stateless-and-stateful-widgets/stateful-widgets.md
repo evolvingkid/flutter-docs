@@ -2,7 +2,7 @@
 
 Unlike stateless widgets the stateful widgets can be drawn multiple time. These widgets can change their state and can redraw the widgets or UI any number of time they want.
 
-```text
+```dart
 class HomePage extends StatefulWidget {
 
   @override

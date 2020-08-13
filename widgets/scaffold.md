@@ -25,7 +25,7 @@ primary // this is set default as true
 
 example of simple scaffold screen
 
-```text
+```dart
 class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
