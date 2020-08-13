@@ -26,7 +26,19 @@ Material App also help us to navigate around the pages too. We will look into it
 example for material app
 
 ```text
-
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+        visualDensity: VisualDensity.adaptivePlatformDensity,
+      ),
+      home: HomePage(),
+    );
+  }
+}
 ```
 
 
