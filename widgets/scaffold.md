@@ -23,5 +23,23 @@ resizeToAvoidBottomPadding // this is set default as true
 primary // this is set default as true
 ```
 
+example of simple scaffold screen
+
+```text
+class HomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: SafeArea(
+          child: Column(
+        children: <Widget>[
+         
+        ],
+      )),
+    );
+  }
+}
+```
+
 
 
