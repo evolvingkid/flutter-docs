@@ -17,5 +17,8 @@
 ## Material App Widgets
 
 * [Usual widgets](material-app-widgets/usual-widgets.md)
-* [Untitled](material-app-widgets/untitled.md)
+
+---
+
+* [Flutter Channels](flutter-channels.md)
 
